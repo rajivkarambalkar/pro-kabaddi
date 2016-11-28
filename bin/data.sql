@@ -1,0 +1,16 @@
+INSERT INTO Venue (venue_name,venue_location) VALUES ('DOME@NSCI SVP Stadium','Mumbai');
+INSERT INTO Venue (venue_name,venue_location) VALUES ('Shree Shiv Chhatrapati Sports Complex','Pune');
+INSERT INTO Venue (venue_name,venue_location) VALUES ('Sree Kanteerava Stadium','Banglore');
+INSERT INTO Venue (venue_name,venue_location) VALUES ('Thyagaraj Sports Complex','Delhi');
+INSERT INTO Venue (venue_name,venue_location) VALUES ('Patliputra Sports Complex','Patna');
+INSERT INTO Venue (venue_name,venue_location) VALUES ('Gachibowli Indoor Stadium','Hyderabad');
+INSERT INTO Venue (venue_name,venue_location) VALUES ('Sawai Mansingh Stadium','Jaipur');
+INSERT INTO Venue (venue_name,venue_location) VALUES ('Netaji Subhash Chandra Bose Indoor Stadium','Kolkata');
+insert into Team (team_Name,venue_Id) values('U MUMBA','1');
+insert into Team (team_Name,venue_Id) values('PUNERI PALTAN','2');
+insert into Team (team_Name,venue_Id) values('BENGALURU BULLS','3');
+insert into Team (team_Name,venue_Id) values('DABANG DELHI K.C.','4');
+insert into Team (team_Name,venue_Id) values('PATNA PIRATES','5');
+insert into Team (team_Name,venue_Id) values('TELUGU TITANS','6');
+insert into Team (team_Name,venue_Id) values('JAIPUR PINK PANTHERS','7');
+insert into Team (team_Name,venue_Id) values('BENGAL WARRIORS','8');
